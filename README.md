@@ -1,2 +1,4 @@
 # shinyApp
-Assignment 4 shiny app
+Cryptocurrency shiny app
+
+https://yilong-wen-incentro.shinyapps.io/CandlesticksCryptiocurrencies/
