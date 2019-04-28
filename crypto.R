@@ -56,7 +56,7 @@ shinyServer <- function(input, output, session){
   })
  
 
-  # Create plot using plotly
+  # Create candlestick plot using plotly
   output$plot1 <- renderPlotly({
     p <- BTCtable()%>%
       plot_ly(x=~Date, 
